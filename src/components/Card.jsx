@@ -54,7 +54,7 @@ console.log(props)
          <h3 className={style.gender}>{props.gender}</h3>
          <h3 className={style.species}>{props.species}</h3>
       </div>    
-         
+         a
       </div>
    );
 }

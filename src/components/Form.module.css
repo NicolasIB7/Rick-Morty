@@ -1,0 +1,32 @@
+.form{
+    padding-top: 20%;
+
+}
+
+.username{
+    background-color: rgba(15, 15, 82, 0.87);
+    font-size: 30px;
+margin-right: 20px;
+    width: fit-content;
+padding: 5px;
+border-radius: 10px;
+color: aliceblue;
+}
+
+input{
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.submit{
+    width: 90px;
+    height: 60px;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 15px;
+}
+.div{
+    margin-top: 20px;
+    margin-left: 200px;
+}
+

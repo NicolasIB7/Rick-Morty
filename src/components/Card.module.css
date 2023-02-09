@@ -1,0 +1,84 @@
+.div{
+    width: fit-content;
+     border-radius: 10px;
+     overflow: hidden;
+    padding: 0.5em;
+     background-color: rgba(158, 91, 128, 0.658);
+     display: flex;
+     flex-direction: column;
+     border: 1.5px solid black;
+     justify-content: center;
+     margin: auto;
+     transition: all 400ms ease;
+}
+
+.div:hover{
+    transform: translateY(-3%);
+}
+
+.divBoton{
+    width: fit-content;
+    align-self: flex-end;
+}
+.button{
+    background-color: rgb(231, 74, 74);
+    border: 1px solid black;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    width: 30px;
+    align-self: center;
+}
+.button:hover{
+    background-color:rgb(238, 139, 139); 
+}
+
+.divGenero{
+    display: flex;
+   justify-content: center;
+}
+
+.gender{
+    margin-right: 30px;
+   
+}
+.species{
+    margin-left: 30px;
+}
+
+.imgNombre{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.name{
+    position: absolute;
+    bottom: 1px;
+    left: 10px;
+    background-color: rgba(94, 91, 91, 0.726);
+    color: white;
+    padding: 3px;
+
+}
+.imagen{
+    margin-top: 20px;
+    object-fit: cover;
+    height: 320px;
+    border-radius: 5px;
+}
+
+
+.corazon{
+    margin-right: 100px;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(250, 235, 215, 0);
+    border: none;
+    scale: 2;
+    margin-top: 10px;
+}
+.corazon:hover{
+    scale: 2.5;
+}
+

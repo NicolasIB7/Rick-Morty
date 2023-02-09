@@ -1,0 +1,14 @@
+.div{
+    background-color: rgba(0, 0, 0, 0.63);
+    height: fit-content;
+    width: fit-content;
+    margin-left: 40%;
+padding-left: 40px;
+padding-right: 40px;
+border-radius: 15px;
+color: wheat;
+}
+
+.img{
+    border-radius: 15px;
+}

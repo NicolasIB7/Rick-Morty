@@ -17,7 +17,7 @@ function App () {
   const location=useLocation()
   const [access, setAccess]=useState(false)
   const username= "nicobouvet7@gmail.com"
-  const password="nicobouvet7"
+  const password="admin"
   const navigate=useNavigate()
 
   function login(input) {

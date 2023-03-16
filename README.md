@@ -5,7 +5,6 @@ FrontEnd project on Rick and Morty in which it has a login to enter the page, di
  username= "nicobouvet7@gmail.com"
  password="admin"
 
-Applied technologies:
 
 
 

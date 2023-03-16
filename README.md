@@ -3,7 +3,7 @@
 FrontEnd project on Rick and Morty in which it has a login to enter the page, display of letters from different characters from the series, the possibility of entering the details of each one of them as well as being able to add your chosen characters to favorites.
 
  username= "nicobouvet7@gmail.com"
- assword="admin"
+ password="admin"
 
 Applied technologies:
 

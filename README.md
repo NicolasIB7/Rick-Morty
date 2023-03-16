@@ -2,11 +2,6 @@
 
 FrontEnd project on Rick and Morty in which it has a login to enter the page, display of letters from different characters from the series, the possibility of entering the details of each one of them as well as being able to add your chosen characters to favorites.
 
- username= "nicobouvet7@gmail.com"
- password="admin"
-
-
-
 
 ## Applied technologies
 
@@ -45,8 +40,11 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## WEBPAGE
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+https://rick-morty-plum.vercel.app/
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+username= "nicobouvet7@gmail.com"
+ password="admin"
+
+
